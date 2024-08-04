@@ -1,0 +1,3 @@
+[submodule "src/contador"]
+	path = src/contador
+	url = https://github.com/JuanP92/contador
